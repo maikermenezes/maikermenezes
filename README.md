@@ -1,6 +1,6 @@
 ## Hey y'all! :space_invader: :doughnut: 
 
-It's Maike Menezes. I'm a Computer Science student and assistant machine learning researcher at Universidade Federal Rural de Pernambuco (UFRPE). Also working as a java developer intern at Facilit Tecnologia. Well, I just really enjoy learning and developing my skills!
+It's Maike Menezes. I'm a Computer Science student at Universidade Federal de Pernambuco (UFPE). Also working as a java developer intern at Facilit Tecnologia. Well, I just really enjoy learning and developing my skills!
 
 - :headphones: I’m currently working on improving my machine learning skills
 - :wrench: I’m currently learning JavaScript and Python
